@@ -20,7 +20,6 @@ public record Pong(List<Paddle> player, List<Paddle> enemy, List<List<? extends 
 	static int playerSize = 5;
 	static int enemySize = 5;
 
-	// Test
 	
 	
 	static enum Buttons {
